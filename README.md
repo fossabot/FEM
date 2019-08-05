@@ -4,6 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/79d55b3cc1649d0783ed/maintainability)](https://codeclimate.com/github/EwenBrun/FEM/maintainability)
 [![codecov](https://codecov.io/gh/3wnbr1/FEM/branch/master/graph/badge.svg)](https://codecov.io/gh/3wnbr1/FEM)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ewnbr1/my-stack)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F3wnbr1%2FFEM.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F3wnbr1%2FFEM?ref=badge_shield)
 
 ### *Finite Elements Analysis applied to static*
 
@@ -47,3 +48,7 @@ cd FEM
 pip install -r requirements.txt
 start runWin.bat
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F3wnbr1%2FFEM.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F3wnbr1%2FFEM?ref=badge_large)
